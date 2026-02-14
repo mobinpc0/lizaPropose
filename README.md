@@ -32,5 +32,5 @@ This is a cute, interactive, and mobile-friendly webpage designed to make your s
 Simply open `index.html` in any web browser!
 
 <p align="center">
-  <em>Made by <a href="https://github.com/Shourov-Paul">Shourouv-paul</a> with love (and code).</em> ❤️
+  <em>Made by <a href="https://github.com/mobinpc0">Md Samiul Islam Mobin</a> with love (and code).</em> ❤️
 </p>

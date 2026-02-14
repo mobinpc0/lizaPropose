@@ -61,7 +61,7 @@ wannaTryBtn.addEventListener('click', () => {
 
     } else {
         // Final click - Celebration
-        question.innerHTML = "I knew it! ❤️";
+        question.innerHTML = "I knew it! I love you sooooo much LIZUUU ❤️";
         wannaTryBtn.style.display = 'none';
         noBtn.style.display = 'none';
 
